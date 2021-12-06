@@ -8,7 +8,7 @@ with open("showyourwork.yml", "w") as f:
 # DEBUG
 print("HACK")
 with open("src/data/results.hdf.zenodo", "w") as f:
-    print("35254", file=f)
+    print("https://zenodo.org/record/999999", file=f)
     
     
 # User config
